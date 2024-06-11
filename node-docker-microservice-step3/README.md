@@ -1,9 +1,4 @@
 # node-docker-mircroservice
-
-Learn Docker by building a Microservice!
-
-This is a companion project to my article on [dwmkerr.com](dwmkerr.com) demonstrating key concepts of Docker using a Node.js microservice as an example.
-
 # Pre-requisites
 
 You must have Docker installed for this code to work! Check the [Installation Guide](https://docs.docker.com/engine/installation/) if you haven't got it installed.
